@@ -574,9 +574,9 @@
   integrity sha512-snKqtPW01tN0ui7yu9rGv69aJXr/a/Ywvl11sUjNtEcRc+ng/mQriFL0wLXMef74iHa/EkftbDzU9F8iFbH+zg==
 
 "@gqlts/cli@file:../../cli":
-  version "3.2.19"
+  version "3.2.21"
   dependencies:
-    "@gqlts/runtime" "^3.2.19"
+    "@gqlts/runtime" "^3.2.21"
     "@graphql-tools/graphql-file-loader" "8.0.2"
     "@graphql-tools/load" "8.0.3"
     browserify "17.0.1"
@@ -594,8 +594,8 @@
     terser "5.36.0"
     yargs "17.7.2"
 
-"@gqlts/runtime@^3.2.19", "@gqlts/runtime@file:../../runtime":
-  version "3.2.19"
+"@gqlts/runtime@^3.2.21", "@gqlts/runtime@file:../../runtime":
+  version "3.2.21"
   dependencies:
     axios "1.7.7"
     form-data "4.0.1"
@@ -3510,9 +3510,9 @@ mz@^2.7.0:
     thenify-all "^1.0.0"
 
 nanoid@^3.3.6:
-  version "3.3.6"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
-  integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
+  version "3.3.8"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.8.tgz#b1be3030bee36aaff18bacb375e5cce521684baf"
+  integrity sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/BgKEyS4mqsGChFN0w==
 
 next-transpile-modules@10.0.1:
   version "10.0.1"
