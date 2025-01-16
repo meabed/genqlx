@@ -648,10 +648,10 @@
   dependencies:
     tslib "^2.4.0"
 
-"@graphql-tools/graphql-file-loader@8.0.11":
-  version "8.0.11"
-  resolved "https://registry.yarnpkg.com/@graphql-tools/graphql-file-loader/-/graphql-file-loader-8.0.11.tgz#52d11064a311df3a58dfaeb8c88024d0c0ee9130"
-  integrity sha512-Rn7241tY1JFsWzLIn2pji/JWNVHnL/1+CRjdd9M7DgI8Tj5GYsD60yDQ/gmaTzBvy4mQXeyW5y3+rf8Px0pGeQ==
+"@graphql-tools/graphql-file-loader@8.0.12":
+  version "8.0.12"
+  resolved "https://registry.yarnpkg.com/@graphql-tools/graphql-file-loader/-/graphql-file-loader-8.0.12.tgz#7c19cb823eb2c261c7e779f2d41e747370598911"
+  integrity sha512-fhn6IFAgj/LOM3zlr0KDtcYDZnkWacalHOouNVDat4wzpcD4AWyvlh7PoGx3EaDtnwGqmy/l/FMjwWPTjqd9zw==
   dependencies:
     "@graphql-tools/import" "7.0.11"
     "@graphql-tools/utils" "^10.7.2"
@@ -4075,10 +4075,10 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.6
   resolved "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.10.tgz"
   integrity sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==
 
-graphql-ws@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/graphql-ws/-/graphql-ws-6.0.0.tgz#4c233776c91aa8685daac7508896a5aefde3057b"
-  integrity sha512-WiLstdkWZ2Ga9YwCqiYVnu84Kv9cgdZvdIt2GNojSYUMhuk8TLOnxBn7ioHFX4aNX3VWjjwDA3vKaLQGhtDOmw==
+graphql-ws@6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/graphql-ws/-/graphql-ws-6.0.1.tgz#a5e9186b68f45716b4282f209d3038a3607dc25c"
+  integrity sha512-ScU+lpgXMVH+BQecv+veIk6eqF8eNZgvRZU+UNaXGvQ1mGq1uEuQRzmrCvMnaZOW1IX+E5PKZvFNXO39LGZU2Q==
 
 graphql@*, graphql@16.10.0:
   version "16.10.0"
